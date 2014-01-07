@@ -1,0 +1,24 @@
+{
+  "uuid": "793bab03-9464-48a2-b63f-3f779c473db8",
+  "shortName": "Squared 2.0",
+  "longName": "Squared 2.0",
+  "companyName": "LastFuture & Jnm",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": true
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": [
+      {
+        "menuIcon": true,
+        "type": "png",
+        "name": "IMAGE_MENU_ICON",
+        "file": "images/menu_icon_squared.png"
+      }
+    ]
+  }
+}
