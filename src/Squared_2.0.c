@@ -426,6 +426,7 @@ static void deinit() {
 		deinitSlot(i);
 	}
 	
+	animation_destroy(anim);
 	window_destroy(window);
 }
 
